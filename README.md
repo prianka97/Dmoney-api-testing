@@ -23,3 +23,6 @@ https://docs.google.com/spreadsheets/d/18GSEV6GWXsK-B934wtKjuWepTnlry7xz/edit?us
 ## Bug report
 https://docs.google.com/spreadsheets/d/1ifFxzIyGAfQIRwoJQ8hpgFPAfcF2GMbA/edit?usp=sharing&ouid=102203466707027097000&rtpof=true&sd=true
 
+## Newman Reports
+![newman-report](images/newman-test-report.png)
+
